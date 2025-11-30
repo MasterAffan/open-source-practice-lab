@@ -1,3 +1,3 @@
 def multiply(a, b):
-    # Issue #5: Add docstring
+    """Return the product of a and b."""
     return a * b
