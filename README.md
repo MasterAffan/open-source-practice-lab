@@ -9,7 +9,6 @@ A simple repo to help you practice real open-source workflows.
 - Beginner & intermediate issues
 - CI pipeline (GitHub Actions)
 
-`# Issue 8 # Improve README: Add setup instructions`
 ### Prerequisites
 Make sure you have the following installed:
 1.Python 3.7 or higher
