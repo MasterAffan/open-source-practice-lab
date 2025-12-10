@@ -11,3 +11,9 @@ from src.power import power
 
 print(power(2, 4))  # Output: 16
 ```
+
+```python
+from src.multiply import multiply
+
+print(multiply(5,6)) # Output: 30
+```
